@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Garden Pergola</string>
+    <string name="txtTitle">Garden Pergola</string>
+    <string name="btnTools">Tools needed</string>
+    <string name="txtText1">Tools needed to assemble:</string>
+    <string name="txtItem1">Circular saw</string>
+    <string name="txtItem2">Level</string>
+    <string name="txtItem3">Wheelbarrow</string>
+    <string name="txtItem4">Socket set</string>
+    <string name="txtItem5">Screwdriver</string>
+    <string name="txtItem6">Drill</string>
+    <string name="txtItem7">Hammer</string>
+    <string name="txtItem8">Post hole digger</string>
+    <string name="txtItem9">Ladder</string>
+    <string name="txtItem10">Jigsaw</string>
+</resources>
